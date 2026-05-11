@@ -243,21 +243,4 @@ The Orbiter High Resolution Camera (OHRC) onboard Chandrayaan-2 provides:
 ### Ice Detection Principle
 Water ice has a much higher albedo (~0.8) compared to lunar regolith (~0.1-0.2). This significant difference in reflectance allows us to detect potential ice deposits by analyzing pixel brightness.
 
----
-
-## Student Information
-
-**Name:** Maulika. Rongala  
-**Registration Number:** 12308049  
-**Course Code:** [To be filled]  
-**Course Name:** [To be filled]  
-**Assessment:** Continuous Assessment 3  
-**Semester:** Spring 2025
-
----
-
-## Original Design
-
-This project is based on the Figma design available at:  
-https://www.figma.com/design/ZgLXgP7A2Rs13Kv0AnrPlh/LunaVision-X-AI-Lunar-Analysis
 
